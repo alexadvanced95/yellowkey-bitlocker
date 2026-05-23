@@ -1,7 +1,6 @@
-|
 <div align="center">
 
-# YellowKey BitLocker Github
+# YellowKey BitLocker Github Vulnerability
   <p align="center">
     <strong>BitLocker Bypass Tool • Physical Access Exploit</strong>
     <br/>

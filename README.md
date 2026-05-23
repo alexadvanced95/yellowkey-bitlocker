@@ -52,7 +52,3 @@ It exploits weaknesses in the Windows Recovery Environment (WinRE) and default T
 > The developer is not responsible for any illegal use or damage caused by this software.
 
 ---
-
-Готово!  
-
-Хочешь сделать описание более техническим, добавить конкретные шаги или изменить тон?

